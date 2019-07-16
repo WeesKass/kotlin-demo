@@ -1,7 +1,7 @@
 # Kotlin-demo
 # SPASIBO DENIZA
 
-![Alt text](https://github.com/nasyrov289/kotlin-demo/pinkpantera.jpg)
+![Alt text](https://github.com/WeesKass/kotlin-demo/blob/master/pinkpantera.jpg)
 
 
 ## HOW TO RUN IT
