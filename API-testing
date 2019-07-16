@@ -1,0 +1,5 @@
+How did i test my endpoints?
+
+I installed the postman application and tested my APIs.
+During the test, it turned out that my variables types in RequestMethods is not a match with POJO classes.
+After fixing that, I sucessfully tested all my endpoints.
